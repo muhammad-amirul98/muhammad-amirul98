@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammad-amirul98
-- 👀 I’m interested in entering the field as a back-end software engineer using Python
-- 🌱 I’m currently self-studying software and have been doing so since October 2023
+- 👀 
+- 🌱 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
